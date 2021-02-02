@@ -1,26 +1,14 @@
 Package: com.rileytestut.Delta
-Version: 1.1.1
-Section: Emulators
-Maintainer: xxthepersonx
-Depends: 
+Version: 1.2
 Architecture: iphoneos-arm
-Filename: Files//delta/delta.deb
-Size: 14772534
-MD5sum: bfa300b7a202bae5f7554b18cd9eeb79
+Maintainer: xxthepersonx
+Filename: ./Files/delta/delta.deb
+Size: 15042108
+MD5sum: 266370d785223b72edee4a4b8d68ef55
+SHA1: 0f65bb875e589f9a912363eda80834bce93df5f6
+SHA256: 886672c590e58ee9d20f8f0879af115a2be48e0e4edd28cddb2348df5d26ea6b
+Section: Emulators
 Description: Delta Emulator by Rileytestut
+Author: Rileytestut
 Name: Delta
-Author: Rileytestut
-
-Package: com.rileytestut.Delta12
-Version: 1.1
-Section: Emulators
-Maintainer: xxthepersonx
-Depends: 
-Architecture: iphoneos-arm
-Filename: Files//delta12/delta12.deb
-Size: 22484588
-MD5sum: 42b8baf45bc0c4f9c917a33d990ac222
-Description: Delta Emulator by Rileytestut
-Name: Delta (12.0+)
-Author: Rileytestut
 

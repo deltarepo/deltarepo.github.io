@@ -1,9 +1,0 @@
-Package: com.rileytestut.Delta12
-Name: Delta (12.0+)
-Version: 1.1
-Architecture: iphoneos-arm
-Depends:
-Author: Rileytestut
-Section: Emulators
-Description: Delta Emulator by Rileytestut
-Maintainer: xxthepersonx
